@@ -29,9 +29,9 @@
                     <div class="wrapper" id="wrapper-hero-content" >
                         <div class="container hero-dark" id="wrapper-hero-inner" tabindex="-1">
                             <h1>Familiensache. Dynastische Handlungsspielräume von Frauen</h1>
-                            <h2>A digital edition of W. H. Auden's Letters to Stella Musulin</h2>
-                            <p>Early version of a once to become Project-Website and Digital Edition of the <strong>Familiensache. Dynastische Handlungsspielräume von Frauen</strong></p>
-                            <button class="btn btn-round">Read More</button>
+                            <h2>Eine Digitale Edition der Korrespondenz von Eleonore Magdalene von Pfalz-Neuburg</h2>
+                            <p>Frühe Version der Projektwebsite und Digitalen Edition des Projektes <strong>Familiensache. Dynastische Handlungsspielräume von Frauen</strong></p>
+                            <a class="btn btn-round" href="toc.html">Zu den Briefen</a>
                         </div>
                     </div>
                 </div>
