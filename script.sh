@@ -7,7 +7,7 @@ wget ${FUNDAMENT_GIT}v${FUNDAMENT_VERSION}.zip && unzip v${FUNDAMENT_VERSION}.zi
 cp -r fundament-${FUNDAMENT_VERSION}/dist  html/dist
 rm -rf fundament-${FUNDAMENT_VERSION}
 
-# echo "download saxon"
-# rm -rf saxon
-# wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
+echo "download saxon"
+rm -rf saxon
+wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
 # ant
